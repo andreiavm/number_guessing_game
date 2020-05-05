@@ -7,6 +7,7 @@ nume = input()
 print (f"-Buna, {nume}!")
 print ("-Ma gandesc la un numar intre 0 si 10")
 """
+asteapta numarul ca si input si adauga fiecare incercare unei liste goale folosind functia append.
 odata ce numarul a fost ghicit, loop-ul se termina si se printeaza mesajul numar corect, plus numarul de incercari
 """
 guesses = [0]
